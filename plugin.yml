@@ -2,4 +2,4 @@ name: AntiToolBox
 api: 5.0.0
 version: 1.0.0
 main: Abius\AntiToolBox\Loader
-author: AbiusMatrix
+author: AbiusMatrix, AstroKotlin
